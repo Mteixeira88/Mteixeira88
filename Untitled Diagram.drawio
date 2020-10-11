@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T17:55:06.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="9KepseNlU9RwZZjMBLoW" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T17:56:59.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Ar2hOYHy7gXMy_3K1Jm7" version="13.7.7" type="github">
   <diagram id="0FglJE-gf8vtT3oOQZ-4" name="Page-1">
     <mxGraphModel dx="3277" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -537,7 +537,7 @@
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-215" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-110" y="2080" as="sourcePoint" />
+            <mxPoint x="-110" y="2220" as="sourcePoint" />
             <mxPoint x="-110" y="1880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -706,6 +706,12 @@
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-280" value="&lt;span style=&quot;font-style: normal ; font-weight: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-decoration: none ; color: rgb(0 , 0 , 0) ; font-size: 13px ; letter-spacing: -0.07800000160932541px ; background-color: rgb(255 , 255 , 255) ; float: none ; display: inline&quot;&gt;WidgetEight will let you customise your Widget with 8 different grids where you&#39;ll be able to put some phone stats in&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="4070" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-281" value="&lt;img src=&quot;https://github.com/Mteixeira88/Mteixeira88/blob/master/1440x900bb.png?raw=true&quot; width=&quot;520&quot; height=&quot;325&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1875" width="540" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-282" value="&lt;img src=&quot;https://github.com/Mteixeira88/Mteixeira88/blob/master/1440x900bb-2.png?raw=true&quot; width=&quot;520&quot; height=&quot;325&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1875" width="540" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
