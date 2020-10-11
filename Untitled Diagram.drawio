@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T15:16:48.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="sXTXtnG1fv5JnukYtMUb" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T15:19:42.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="auBjUf3XzCNXdSkFh1ML" version="13.7.7" type="github">
   <diagram id="0FglJE-gf8vtT3oOQZ-4" name="Page-1">
     <mxGraphModel dx="1638" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -550,8 +550,8 @@
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="JDqfd6o8wtK1HqEUDn-R-199" target="JDqfd6o8wtK1HqEUDn-R-210">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDqfd6o8wtK1HqEUDn-R-199" value="Swift Tutorial&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;SeanAllen GoHome&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1960" width="80" height="40" as="geometry" />
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-199" value="Swift Tutorials&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;SeanAllen&lt;br&gt;GoHomeProject&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1960" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-202" value="Preparing to move&lt;br&gt;to iOS Development" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="234" y="1141.01" width="100" height="60" as="geometry" />
@@ -562,10 +562,13 @@
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-220" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="JDqfd6o8wtK1HqEUDn-R-210">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="1980.3333333333335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="1980" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-210" value="&lt;a href=&quot;https://github.com/Mteixeira88/Git-Followers-iOS-App&quot;&gt;GitFollowers&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="64.5" y="1950" width="100" height="60" as="geometry" />
+          <mxGeometry x="64.5" y="1955" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-212" value="&lt;font&gt;Git API&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;API&#39;s&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-85" y="2020.0000000000002" width="80" height="40" as="geometry" />
