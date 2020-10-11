@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-11T18:02:42.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="JA9sl9zn9PtIU555zk5D" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-11T18:04:06.681Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="WmB6k8VDubIc9Tt6hCr5" version="13.7.7" type="github">
   <diagram id="0FglJE-gf8vtT3oOQZ-4" name="Page-1">
-    <mxGraphModel dx="4065" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2813" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -479,7 +479,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDqfd6o8wtK1HqEUDn-R-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JDqfd6o8wtK1HqEUDn-R-13" target="JDqfd6o8wtK1HqEUDn-R-62">
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="JDqfd6o8wtK1HqEUDn-R-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="591" y="410" as="targetPoint" />
             <mxPoint x="575" y="540" as="sourcePoint" />
@@ -712,6 +712,36 @@
         </mxCell>
         <mxCell id="JDqfd6o8wtK1HqEUDn-R-282" value="&lt;img src=&quot;https://github.com/Mteixeira88/Mteixeira88/blob/master/1440x900bb-2.png?raw=true&quot; width=&quot;520&quot; height=&quot;325&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1190" y="1875" width="540" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-283" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="399.9999999999998" as="sourcePoint" />
+            <mxPoint x="745" y="399.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-284" value="&lt;font&gt;Angular 4/5/6&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Frameworks&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="421" y="419.9999999999998" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-285" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="539.9999999999998" as="sourcePoint" />
+            <mxPoint x="745" y="539.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-286" value="&lt;font&gt;BitBucket&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;PR&#39;s, Reviews&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="645" y="479.9999999999998" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-287" value="Jira&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;SCRUM/Kanbam&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="536" y="419.9999999999998" width="84" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-288" value="Trello&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Kanbam&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="646" y="419.9999999999998" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-289" value="VueJS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="425" y="479.9999999999998" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDqfd6o8wtK1HqEUDn-R-290" value="CI/CD&lt;br&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Jenkins&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="535" y="479.9999999999998" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
