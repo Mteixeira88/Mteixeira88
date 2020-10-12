@@ -4,7 +4,7 @@
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E14-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-2.0-blue">
 
-<a href="https://apps.apple.com/pt/app/id1534334074"><img alt="" src="/appStoreButton_2.png"></a>
+<a href="https://apps.apple.com/pt/app/id1534334074"><img alt="" src="/appStoreButton.png"></a>
 
 SecondWallet is the alternative for you to not worry anymore about that code you need in that moment!
 
@@ -22,7 +22,7 @@ ClipToCloud is a software that allows you to store all your copies in a customis
 
 <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.1-green">
 
-<a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton_2.png"></a>
+<a href="https://apps.apple.com/pt/app/id1486079413"><img alt="" src="/appStoreButton.png"></a>
 
 <img src="1440x900bb.png" height="500px"><img src="1440x900bb-2.png" height="500px">
 
@@ -35,5 +35,7 @@ ClipToCloud is a software that allows you to store all your copies in a customis
 Calendall is the platform you asked not to miss any more events from your favorite artists.
 
 <img alt="" src="https://img.shields.io/badge/IOS-%5E13-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.1-green"> <img alt="" src="https://img.shields.io/badge/UIKit-blue">
+
+<a href="https://apps.apple.com/pt/app/id1509003266"><img alt="" src="/appStoreButton.png"></a>
 
 <img src="1242x2688bb.png" height="500px"><img src="1242x2688bb-2.png" height="500px"><img src="1242x2688bb-3.png" height="500px">
