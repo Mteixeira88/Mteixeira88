@@ -53,7 +53,7 @@ More details [here](https://github.com/Mteixeira88/DriversPicking)
 
 Calendall is the platform you asked not to miss any more events from your favorite artists.
 
-In this project I worked with a UX Designer, that did all the design before I started implementing. I started alone implementing the code but after two weeks a Senior iOS developper come to help/teach me and it was when I we start using SwiftLint, Firebase for Analytics/Push Notifications and Fastlane integratio
+In this project I worked with a UX Designer, that did all the design before I started implementing. I started alone implementing the code but after two weeks after, a Senior iOS developper come to help/teach me and it was when I we start using SwiftLint, Firebase for Analytics/Push Notifications and Fastlane integration.
 
 <!--
 **Mteixeira88/Mteixeira88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
