@@ -23,7 +23,7 @@ ClipToCloud is a software that allows you to manage your clipboard in a polished
 
 In this project I worked with a UX Designer, that helped me in the beggining designing the macOS app. The iOS app I did by myself. All implementation was done by me. This project uses Firebase (Firestore) as database. All clips are encrypted with CryptoSwift.
 
-More details [here](https://github.com/Mteixeira88/Clip-To-Cloud/master/README.md)
+More details [here](https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/README.md)
 
 - SecondWallet <img alt="" src="https://img.shields.io/badge/IOS-%5E14-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-2.0-blue">
 
@@ -31,7 +31,7 @@ A new way to save your brain from unnecessary information
 
 In this project I worked alone, and I did all the UX/UI work, you can find the Figma file <a href="https://www.figma.com/file/ibCQRusMUxl7w6HWGdHIvq/Second-Wallet?node-id=0%3A1">here</a>.  All implementation was done by me. This projects uses AWS for persistence management.
 
-More details [here](https://github.com/Mteixeira88/Second-Wallet/main/README.md)
+More details [here](https://github.com/Mteixeira88/Second-Wallet/blob/main/README.md)
 
 #### Learning Apps
 
