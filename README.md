@@ -17,13 +17,11 @@ My name is Miguel Teixeira, I am 33 years old and I am from Portugal.
 
 #### Indie Apps
 
-- ClipToCloud <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.0.1-green"> <img alt="" src="https://img.shields.io/badge/UiKit-blue">
+- Source Notify <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2.10-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-blue">
 
-ClipToCloud is a software that allows you to manage your clipboard in a polished and easy-to-use interface all around your Apple devices.
+Source Notify was developed for those who use Github, GitLab, Bitbucket or Bitbucket Servers to manage their Pull Requests. The app allows the user to manage their Pull Requests from all the git clients in one place and in the macOS menu bar showing all the necessary data the developer needs to check before going to the website.
 
-In this project I worked with a UX Designer, that helped me in the beggining designing the macOS app. The iOS app I did by myself. All implementation was done by me. This project uses Firebase (Firestore) as database. All clips are encrypted with CryptoSwift.
-
-More details [here](https://github.com/Mteixeira88/Clip-To-Cloud/blob/master/README.md)
+More details [here](https://github.com/SourceNotify/macOS-App)
 
 - SecondWallet <img alt="" src="https://img.shields.io/badge/IOS-%5E14-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-2.0-blue">
 
