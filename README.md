@@ -17,7 +17,7 @@ My name is Miguel Teixeira, I am 33 years old and I am from Portugal.
 
 #### Indie Apps
 
-- Source Notify <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.2.10-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-blue">
+- Source Notify <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.3.4.2022011804-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-blue">
 
 Source Notify was developed for those who use Github, GitLab, Bitbucket or Bitbucket Servers to manage their Pull Requests. The app allows the user to manage their Pull Requests from all the git clients in one place and in the macOS menu bar showing all the necessary data the developer needs to check before going to the website.
 
