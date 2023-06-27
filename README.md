@@ -13,48 +13,4 @@ My name is Miguel Teixeira, I am 33 years old and I am from Portugal.
 
 <i>Programming makes my life better everyday. The pursuit for perfection and new things makes my self-learning will to never let me go frustrated with this area.</i>
 
-### My work
-
-#### Indie Apps
-
-- Source Notify <img alt="" src="https://img.shields.io/badge/macOS-%5E10.15-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.3.4.2022011804-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-blue">
-
-Source Notify was developed for those who use Github, GitLab, Bitbucket or Bitbucket Servers to manage their Pull Requests. The app allows the user to manage their Pull Requests from all the git clients in one place and in the macOS menu bar showing all the necessary data the developer needs to check before going to the website.
-
-More details [here](https://github.com/SourceNotify/macOS-App)
-
-- SecondWallet <img alt="" src="https://img.shields.io/badge/IOS-%5E14-red"> <img alt="" src="https://img.shields.io/badge/AppStore-1.1-green"> <img alt="" src="https://img.shields.io/badge/SwiftUI-2.0-blue">
-
-A new way to save your brain from unnecessary information
-
-In this project I worked alone, and I did all the UX/UI work, you can find the Figma file <a href="https://www.figma.com/file/ibCQRusMUxl7w6HWGdHIvq/Second-Wallet?node-id=0%3A1">here</a>.  All implementation was done by me. This projects uses AWS for persistence management.
-
-More details [here](https://github.com/Mteixeira88/Second-Wallet/blob/main/README.md)
-
-#### Learning Apps
-
-- Github Followers <img alt="" src="https://img.shields.io/badge/UiKit-blue">
-
-App from online course from Sean Allen iOS Dev Job Interview Practice
-
-More details [here](https://github.com/Mteixeira88/Git-Followers-iOS-App)
-
-- DriversPricking <img alt="" src="https://img.shields.io/badge/UiKit-blue"> <img alt="" src="https://img.shields.io/badge/RxSwift-yellow">
-
-App I developed to show my skills on MapKit and Reactive Programming.
-
-More details [here](https://github.com/Mteixeira88/DriversPicking)
-
-#### Professional apps
-
-- Calendall <img alt="" src="https://img.shields.io/badge/Disabled-red">
-
-Calendall is the platform you asked not to miss any more events from your favorite artists.
-
-In this project I worked with a UX Designer, that did all the design before I started implementing. I started alone implementing the code but after two weeks after, a Senior iOS developper come to help/teach me and it was when I we start using SwiftLint, Firebase for Analytics/Push Notifications and Fastlane integration.
-
-<!--
-**Mteixeira88/Mteixeira88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Mteixeira88 github stats](https://github-readme-stats.vercel.app/api?username=mteixeira88&show_icons=true)
--->
