@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel Teixeira, I am 33 years old and I am from Portugal.
+My name is Miguel Teixeira, I am 36 years old and I am from Portugal.
 
 - 🔭 I’m currently working as an <b>iOS Developer</b>
 - 🌱 I’m currently learning <b>SwiftUI & Reactive Programming</b>
